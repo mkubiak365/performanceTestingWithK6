@@ -1,14 +1,14 @@
 {
 "users": [
-{"firstname":"Tucker","lastname":"Messam","totalprice":74,"depositpaid":false,"bookingdates":{"checkin":"2022-07-14","checkout":"2022-11-12"},"additionalneeds":"Hedge False Bindweed"},
-{"firstname":"Gloriane","lastname":"Borlease","totalprice":79,"depositpaid":false,"bookingdates":{"checkin":"2022-10-15","checkout":"2022-01-31"},"additionalneeds":"Wirestem Buckwheat"},
+{"firstname":"Tucker","lastname":"Messam","totalprice":74,"depositpaid":true,"bookingdates":{"checkin":"2022-07-14","checkout":"2022-11-12"},"additionalneeds":"Hedge False Bindweed"},
+{"firstname":"Gloriane","lastname":"Borlease","totalprice":79,"depositpaid":true,"bookingdates":{"checkin":"2022-10-15","checkout":"2022-01-31"},"additionalneeds":"Wirestem Buckwheat"},
 {"firstname":"Hakim","lastname":"Shilstone","totalprice":50,"depositpaid":true,"bookingdates":{"checkin":"2022-07-23","checkout":"2022-05-03"},"additionalneeds":"Donner Lake Lupine"},
 {"firstname":"Bride","lastname":"Firsby","totalprice":44,"depositpaid":true,"bookingdates":{"checkin":"2022-06-26","checkout":"2022-04-15"},"additionalneeds":"Spinystar"},
-{"firstname":"Yvor","lastname":"Pomfrey","totalprice":45,"depositpaid":false,"bookingdates":{"checkin":"2022-08-19","checkout":"2022-11-21"},"additionalneeds":"False Silverback"},
+{"firstname":"Yvor","lastname":"Pomfrey","totalprice":45,"depositpaid":true,"bookingdates":{"checkin":"2022-08-19","checkout":"2022-11-21"},"additionalneeds":"False Silverback"},
 {"firstname":"Stirling","lastname":"Bremner","totalprice":53,"depositpaid":true,"bookingdates":{"checkin":"2022-02-21","checkout":"2022-04-17"},"additionalneeds":"Scarlet Monkeyflower"},
-{"firstname":"Dom","lastname":"Abram","totalprice":61,"depositpaid":false,"bookingdates":{"checkin":"2022-08-20","checkout":"2022-11-01"},"additionalneeds":"Syrian Mustard"},
-{"firstname":"Maryrose","lastname":"Saer","totalprice":25,"depositpaid":false,"bookingdates":{"checkin":"2022-09-29","checkout":"2022-05-18"},"additionalneeds":"Spurry"},
+{"firstname":"Dom","lastname":"Abram","totalprice":61,"depositpaid":true,"bookingdates":{"checkin":"2022-08-20","checkout":"2022-11-01"},"additionalneeds":"Syrian Mustard"},
+{"firstname":"Maryrose","lastname":"Saer","totalprice":25,"depositpaid":true,"bookingdates":{"checkin":"2022-09-29","checkout":"2022-05-18"},"additionalneeds":"Spurry"},
 {"firstname":"Brianna","lastname":"Cruess","totalprice":87,"depositpaid":true,"bookingdates":{"checkin":"2022-06-25","checkout":"2022-02-06"},"additionalneeds":"King Desertparsley"},
-{"firstname":"Leisha","lastname":"Dabner","totalprice":57,"depositpaid":false,"bookingdates":{"checkin":"2022-05-31","checkout":"2022-06-30"},"additionalneeds":"Lassicus Stitchwort"}
+{"firstname":"Leisha","lastname":"Dabner","totalprice":57,"depositpaid":true,"bookingdates":{"checkin":"2022-05-31","checkout":"2022-06-30"},"additionalneeds":"Lassicus Stitchwort"}
 ]
 }

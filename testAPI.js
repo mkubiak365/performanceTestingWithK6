@@ -18,8 +18,8 @@ export const options = {
     login: {
       executor: 'per-vu-iterations',
       vus: users.length,
-      iterations: 1,
-      maxDuration: '1h30m',
+      iterations: 3,
+      maxDuration: '60s',
     },
   },
 };
@@ -35,16 +35,15 @@ export function handleSummary(data) {
   };
 }
 
-/// Run itterations ///
+/// Run iterations ///
 
 export default function () {
 
-  let bookingId = postMethod(users[vu.idInTest - 1]);
-  console.log(bookingId)
+  let bookingId = postMethod(users[vu.idInTest - 1]);  /// SEND DATA ///
   sleep(1);
-  let getData = getMethod(bookingId);
+  let getData = getMethod(bookingId, users[vu.idInTest - 1]); /// GET DATA AND COMPARE ///
   sleep(1);
-  let deleteData = deleteMethod(bookingId);
+  let deleteData = deleteMethod(bookingId); /// DELETE DATA ///
 
 }
 
