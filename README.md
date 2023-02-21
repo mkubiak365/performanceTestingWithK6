@@ -6,3 +6,6 @@ The test flow:
 3. Get users using the GET service and compare with data.json.
 4. Delete users, which were created.
 5. Generate a report from the test process. 
+
+
+Run tests: k6 run testAPI.js
